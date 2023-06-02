@@ -21,11 +21,11 @@ skinparam useBetaStyle false
 !$PRIMARY = "#a01441"
 !$SECONDARY = "#e2e2e2"
 !$SUCCESS = "#b5bd00"
-!$INFO = "#9ac8d7"
+!$INFO = "#cce3eb"
 !$WARNING = "#ea7400"
 !$DANGER = "#cf2a2a"
 !$LIGHT = "#d2d2d2"
-!$DARK = "#2d2d2d"
+!$DARK = "#121212"
 
 !$FGCOLOR = $DARK
 !$PRIMARY_LIGHT = "#bd5b7a"
@@ -182,8 +182,8 @@ skinparam useBetaStyle false
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName        "Segoe UI"
-skinparam defaultFontSize        12
+skinparam defaultFontName        "Arial"
+skinparam defaultFontSize        11
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            20
