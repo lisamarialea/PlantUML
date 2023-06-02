@@ -5,7 +5,7 @@
 '' Author: Brett Schwarz, colors & font changed by Lisa Ernst
 '' Copyright (c) 2019 by Brett Schwarz
 
-!$THEME = "bluegray"
+!$THEME = "Primary#A01441"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
