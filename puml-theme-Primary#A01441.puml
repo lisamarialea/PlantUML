@@ -21,7 +21,7 @@ skinparam useBetaStyle false
 !$PRIMARY = "#a01441"
 !$SECONDARY = "#e2e2e2"
 !$SUCCESS = "#b5bd00"
-!$INFO = "#cce3eb"
+!$INFO = "#9ac8d7"
 !$WARNING = "#ea7400"
 !$DANGER = "#cf2a2a"
 !$LIGHT = "#d2d2d2"
@@ -362,7 +362,7 @@ skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO_LIGHT-$INFO
 	BorderColor $INFO
-	FontColor $WHITE
+	FontColor $DARK
 }
 !endsub
 
