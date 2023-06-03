@@ -1,10 +1,3 @@
-''
-'' red primary colors theme Primary#A01441
-
-''
-'' Author: Brett Schwarz, colors & font changed by Lisa Ernst
-'' Copyright (c) 2019 by Brett Schwarz
-
 !$THEME = "Primary#A01441"
 
 !if %not(%variable_exists("$BGCOLOR"))
