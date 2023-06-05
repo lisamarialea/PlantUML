@@ -75,12 +75,12 @@ skinparam useBetaStyle false
     HyperLinkColor $ORANGE
     LineColor $PRIMARY_DARK
     LineThickness 1
-    Margin 5
-    Padding 3
+    Margin 2.5
+    Padding 1.5
     Shadowing 0.0
   }
   node {
-   Padding 7
+   Padding 3.5
    roundcorner 20
    BackgroundColor $PRIMARY-$PRIMARY_DARK
   }
@@ -109,7 +109,7 @@ skinparam useBetaStyle false
     FontStyle bold
   }
   title {
-	FontSize 16
+	FontSize 14
 	BorderRoundCorner            8
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
@@ -157,7 +157,7 @@ skinparam useBetaStyle false
 	}
 	milestone {
 		FontColor $INFO
-		FontSize 16
+		FontSize 14
 		FontStyle italic
 		BackGroundColor $SECONDARY
 		LineColor $SECONDARY_DARK
@@ -180,8 +180,8 @@ skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            20
-skinparam ParticipantPadding     15
-skinparam BoxPadding             20
+skinparam ParticipantPadding     7
+skinparam BoxPadding             10
 skinparam Padding                2
 skinparam ArrowColor             $GRAY
 skinparam stereotype {
