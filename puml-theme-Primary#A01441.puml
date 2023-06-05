@@ -109,7 +109,7 @@ skinparam useBetaStyle false
     FontStyle bold
   }
   title {
-	FontSize 16
+	FontSize 20
 	BorderRoundCorner            8
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
@@ -183,6 +183,7 @@ skinparam roundcorner            20
 skinparam ParticipantPadding     15
 skinparam BoxPadding             20
 skinparam Padding                2
+skinparam Linewidth              0.5
 skinparam ArrowColor             $GRAY
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
@@ -199,7 +200,7 @@ skinparam stereotype {
 skinparam title {
 	FontColor	                 $PRIMARY
 	BorderColor	                 $SECONDARY_DARK
-	FontSize	    	         20
+	FontSize	    	         16
 	BorderRoundCorner            8
 	BorderThickness 	         1
 	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
