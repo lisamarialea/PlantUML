@@ -75,12 +75,12 @@ skinparam useBetaStyle false
     HyperLinkColor $ORANGE
     LineColor $PRIMARY_DARK
     LineThickness 1
-    Margin 2.5
-    Padding 1.5
+    Margin 30
+    Padding 4
     Shadowing 0.0
   }
   node {
-   Padding 3.5
+   Padding 7
    roundcorner 20
    BackgroundColor $PRIMARY-$PRIMARY_DARK
   }
@@ -110,7 +110,7 @@ skinparam useBetaStyle false
   }
   title {
 	FontSize 14
-	BorderRoundCorner            8
+	BorderRoundCorner            10
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
 	FontColor $PRIMARY
@@ -182,7 +182,7 @@ skinparam shadowing              false
 skinparam roundcorner            20
 skinparam ParticipantPadding     7
 skinparam BoxPadding             20
-skinparam Padding                2
+skinparam Padding                4
 skinparam ArrowColor             $GRAY
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
@@ -200,7 +200,7 @@ skinparam title {
 	FontColor	                 $PRIMARY
 	BorderColor	                 $SECONDARY_DARK
 	FontSize	    	         16
-	BorderRoundCorner            8
+	BorderRoundCorner                10
 	BorderThickness 	         1
 	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
 }
@@ -256,7 +256,7 @@ skinparam actor {
 !startsub arrow
 
 skinparam arrow {
-	Thickness 3
+	Thickness 1.5
 	Color $PRIMARY
 	FontColor $FGCOLOR
 }
